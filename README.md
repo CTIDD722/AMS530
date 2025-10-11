@@ -3,7 +3,7 @@
 ##### In this project, I choose to solve Problem1.2
 ##### You can directly run function or by using main.m (user guide is in main.m)
 
-### Project 1
+### Project 2
 ##### In this project, I choose to solve Problem2.1
 ##### You can directly run both files
 
